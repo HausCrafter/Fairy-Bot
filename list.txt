@@ -1,6 +1,0 @@
-Package                  Version
------------------------- -----------
-colorama                 0.4.6
-nextcord                 2.5.0
-pip                      22.2.2
-wavelink                 2.6.2
